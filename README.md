@@ -7,7 +7,7 @@ Every push to `main` automatically runs tests and, if they pass, deploys the pro
 
 ## What the App Does
 
-- Displays **"Hello, Awais!"** on the screen.
+- Displays **"Hello, Umair!"** on the screen.
 - Displays **"This app was deployed with a CI/CD pipeline."**
 - That's it — simple by design. The app is the proof, not the feature.
 
