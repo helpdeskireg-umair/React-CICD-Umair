@@ -9,7 +9,7 @@ test('renders without crashing', () => {
 // Test 2: The greeting text appears on screen
 test('displays the greeting message', () => {
   render(<App />);
-  const heading = screen.getByText(/Hello, Umair!/i);
+  const heading = screen.getByText(/Hello, Umair Rao!/i);
   expect(heading).toBeInTheDocument();
 });
 
