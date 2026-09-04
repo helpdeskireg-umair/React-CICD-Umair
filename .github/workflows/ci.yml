@@ -60,8 +60,8 @@ jobs:
             # Pull the latest code from GitHub
             git pull origin main
 
-            # Install dependencies (clean install)
-            npm ci
+            # Install dependencies
+            npm install
 
             # Build the React app for production
             npm run build
